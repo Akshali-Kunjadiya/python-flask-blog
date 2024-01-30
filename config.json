@@ -1,0 +1,18 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql+pymysql://root:@localhost:3307/codingthunder",
+        "prod_uri":"mysql://root:@localhost/codingthunder",
+        "blog_name": "Coding Thunder",
+        "fb_url":"https://facebook.com",
+        "tw_url":"https://twitter.com",
+        "gh_url":"https://github.com",
+        "gmail-user":"akshalikunjadiya3208@gmail.com",
+        "gmail-password":"dkdk kiiw uvzk gumb",
+        "no-of-posts":3,
+        "admin_user":"akshali",
+        "admin_password":"123456",
+        "upload_location":"D:\\vs code\\flask\\static"
+    }
+}
